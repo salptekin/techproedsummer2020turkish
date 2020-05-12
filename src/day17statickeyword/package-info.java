@@ -1,0 +1,1 @@
+package day17statickeyword;
