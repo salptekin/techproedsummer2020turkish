@@ -28,7 +28,7 @@ public class Static02 {
 		//object olusturmadan sadece class ismini kullanarak ulasabilirsiniz.
 		System.out.println(Static03.ad);//Ali Can
 		System.out.println(Static03.kilo);//33
-		Static03.artirma(45);//46
+		//Static03.artirma(45);//46
 		Static03.degistirme("Merhaba Naci");//Merhaba Naci
 	}
 

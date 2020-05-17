@@ -9,9 +9,9 @@ public class Static03 {
 		
 	}
 	
-	public static void artirma(int yas) {
-		yas++;
-		System.out.println(yas);
+	public static void artirma() {
+		kilo++;
+		System.out.println(kilo);
 	}
 	
 	public static void degistirme(String isim) {
