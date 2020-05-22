@@ -23,14 +23,11 @@ public class ArrayList04 {
 		
 		//list'deki elemanlari alfabetik siraya koyunuz.
 		//Collection ==> Bir araya getirilmis parcalar
+		//Bir list'deki elemanlari alfabetik siraya (Natural Order) dizmek icin 
+		//Collections.sort() methodu kullanilir. Argument olarak list'in adini kullaniniz
 		Collections.sort(list);
 		System.out.println(list);//[A, B, C, C]
-		
-		
-		
-		
-		
-		
+	
 	}
 
 }

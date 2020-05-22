@@ -26,7 +26,6 @@ public class MultiDimensionalArray02 {
 			}
 		}
 		System.out.println("Tum elemanlarin toplami: " + sum);
-	
 	}
 
 }
