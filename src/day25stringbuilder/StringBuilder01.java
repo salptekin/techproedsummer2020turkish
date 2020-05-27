@@ -28,7 +28,7 @@ public class StringBuilder01 {
 		strBld1.append("Can");//append() methodu String'e yeni bir String eklemek
 		                     //icin kullanilir. Concatenation yapar.
 		System.out.println(strBld1);//AyseCan
-		System.out.println("==>"+str.contentEquals(strBld1));
+		
 		//2. Yol
 		StringBuilder strBld2 = new StringBuilder();//bos bir String uretir ==> ""
 		strBld2.append("Ali Can");//Bos String'e "Ali Can" ekledim
@@ -41,6 +41,7 @@ public class StringBuilder01 {
 		//cok Stringler ekleyebilirsiniz. StringBuilder problem cikarmaz.
 		strBld3.append("Ali");
 		strBld3.append("Kahraman");
+		System.out.println(strBld3);
 
 	}
 
