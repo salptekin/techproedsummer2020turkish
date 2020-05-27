@@ -9,7 +9,7 @@ public class Inheritance02 extends Inheritance01 {
 		// Cevap: Olmaz. Java "multiple inheritance" i desteklemez. 
 		//        Java "Single Inheritance" i destekler.
 		
-		//Parent'in 1 den fazla Child'i iolur mu?
+		//Parent'in 1 den fazla Child'i olur mu?
 		//Cevap: Olur. "Hiyerarsik Inheritance" denir.
 		
 		// child[a, b] --> parent[c, d, e] --> grandParent[f, g]
