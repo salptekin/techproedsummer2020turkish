@@ -5,6 +5,15 @@ import java.util.LinkedList;
 public class LinkedList01 {
 
 	public static void main(String[] args) {
+		
+		//Linked list'de head haric her eleman icin bir data bir de pointer var.
+		//head'de sadece pointer var.
+		//Her elemanin pointer'i bir sonraki elemani gosterir, son eleman'in(tail)
+		//pointer'i Null gosterir.
+		//Data ve pointer iceren her elemanin diger adi "Node" dur.
+		//Linked list eleman ekleme ve cikarma durumlarinda basarilidir.
+		
+		
 		// Linked list objesi olusturunuz
 		LinkedList<String> linkList = new LinkedList<>();
 		linkList.add("Mark");
@@ -49,20 +58,9 @@ public class LinkedList01 {
 		System.out.println(linkList2.contains("Can"));//false
 		System.out.println(linkList2.contains("Ali"));//true
 		
-		linkList2.clear();
+		linkList2.clear();//clear() methodu list'in elemanlarini siler, sizde bos bir list kalir
 		System.out.println(linkList2);//[]
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 
 }

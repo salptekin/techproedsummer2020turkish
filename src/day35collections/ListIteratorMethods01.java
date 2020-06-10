@@ -12,7 +12,7 @@ public class ListIteratorMethods01 {
 		list.add("A");
 		list.add("B");
 		list.add("C");
-		//System.out.println(list);//[A, B, C]
+		System.out.println(list);//[A, B, C]
 		
 		//list iterator olusturunuz ve list elemanlarini console'a yazdiriniz
 		ListIterator<String> listIterator = list.listIterator();
