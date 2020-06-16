@@ -12,7 +12,6 @@ public class Queue01 {
 		//        [1, 2, 3] ==> Bu Queue'dan eleman silmeye basladiginizda once 1 silinir.
 		//        FIFO ==> First In First Out
 		
-		
 		//PriorityQueue elemanlari natural order'a gore siralar.
 		Queue<String> q = new PriorityQueue<>();
 		q.add("B");
@@ -51,16 +50,6 @@ public class Queue01 {
 		//Not: remove() methodu bos queue'lar icin kullanilirsa Exception verir.
 		//     poll() methodu bos queue'lar icin kullanilirsa null verir.
 		//     Ama dolu queue'lar icin ayni isi yaparlar, farklari yoktur
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 	}
 
