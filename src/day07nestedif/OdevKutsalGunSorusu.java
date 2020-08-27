@@ -33,5 +33,7 @@ public class OdevKutsalGunSorusu {
 			System.out.println("Kutsal gun degil");
 			
 		}
+		
+		scan.close();
 	}
 }

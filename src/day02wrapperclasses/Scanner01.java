@@ -18,6 +18,8 @@ public class Scanner01 {
 		
 		System.out.println(sayi1 + sayi2);
 		System.out.println(sayi1 * sayi2);
+		
+		scan.close();
 	
 	}
 }

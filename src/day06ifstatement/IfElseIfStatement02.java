@@ -27,5 +27,6 @@ public class IfElseIfStatement02 {
 		}else {
 			System.out.println("100 den buyuk deger giremezsiniz");
 		}
+		scan.close();
 	}
 }

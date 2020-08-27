@@ -19,6 +19,8 @@ public class Wrapper02 {
 		
 		System.out.println(ilkIsim);
 		System.out.println(soyIsim);
+		
+		scan.close();
 	}
 
 }

@@ -34,17 +34,7 @@ public class IfStatement05 {
 			System.out.println("Bu bir dikdortgendir");
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		scan.close();
 
 	}
 

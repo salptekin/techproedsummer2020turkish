@@ -23,5 +23,6 @@ public class IfElseStatement02 {
 		}else {
 			System.out.println(num*(-1));
 		}
+		scan.close();
 	}
 }

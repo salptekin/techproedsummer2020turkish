@@ -17,6 +17,8 @@ public class Wrapper01 {
 		                              //Space gorunce String'i almayi birakir.
 		                              //nextLine() girilen tum String'i almak icin kullanilir.
 		System.out.println(isim);
+		
+		scan.close();
 
 	}
 

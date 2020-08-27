@@ -22,6 +22,7 @@ public class Scanner05 {
 		
 		System.out.println(3.14159 * yaricap * yaricap);
 
+		scan.close();
 	}
 
 }

@@ -29,6 +29,8 @@ public class Wrapper03 {
 		System.out.println("Turkiye'de yasiyorum. true/false");
 		boolean blTr = scan.nextBoolean();
 		System.out.println(blTr);
+		
+		scan.close();
 
 	}
 

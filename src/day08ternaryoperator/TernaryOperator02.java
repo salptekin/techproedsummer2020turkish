@@ -19,5 +19,7 @@ public class TernaryOperator02 {
 		
 		double sonuc = num1==num2 ? num1+num2 : num1*num2;
 		System.out.println(sonuc);
+		
+		scan.close();
 	}
 }

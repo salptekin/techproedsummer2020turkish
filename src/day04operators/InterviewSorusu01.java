@@ -44,6 +44,8 @@ public class InterviewSorusu01 {
 		System.out.println("Yer degistirdikten sonra:");
 		System.out.println(sayi3);//30.0
 		System.out.println(sayi4);//12.0
+		
+		scan.close();
 
 	}
 

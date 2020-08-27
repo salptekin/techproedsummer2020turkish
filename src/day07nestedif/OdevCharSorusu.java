@@ -19,6 +19,7 @@ public class OdevCharSorusu {
 			System.out.println("Bu bir harf degildir");
 		}
 
+		scan.close();
 	}
 
 }

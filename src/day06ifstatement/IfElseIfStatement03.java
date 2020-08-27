@@ -22,5 +22,6 @@ public class IfElseIfStatement03 {
 		}else {
 			System.out.println("Kaybettiniz");
 		}
+		scan.close();
 	}
 }

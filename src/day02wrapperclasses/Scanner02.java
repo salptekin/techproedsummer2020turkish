@@ -20,6 +20,7 @@ public class Scanner02 {
 		System.out.println(kenarUzunlugu + kenarUzunlugu + kenarUzunlugu + kenarUzunlugu);//40
 		System.out.println(kenarUzunlugu * kenarUzunlugu);//100
 
+		scan.close();
 	}
 
 }

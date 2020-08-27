@@ -23,5 +23,7 @@ public class OdevSorusuCozumu01 {
 		System.out.println("Adinizi ve soyadinizi giriniz");
 		String isim = scan.nextLine();	
 		System.out.println(isim);
+		
+		scan.close();
 	}
 }

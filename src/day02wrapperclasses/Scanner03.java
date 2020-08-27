@@ -17,6 +17,7 @@ public class Scanner03 {
 		
 		System.out.println(sayi1 * sayi1 * sayi1);
 		
+		scan.close();
 
 	}
 

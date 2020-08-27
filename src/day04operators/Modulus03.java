@@ -24,6 +24,7 @@ public class Modulus03 {
 		
 		System.out.println(sonRakam + ortaRakam + ilkRakam);
 	
+		scan.close();
 	}
 
 }

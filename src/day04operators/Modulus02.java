@@ -16,5 +16,7 @@ public class Modulus02 {
 		int ilkRakam = s / 1000;
 		
 		System.out.println(sonRakam + ilkRakam);
+		
+		scan.close();
 	}
 }

@@ -26,6 +26,7 @@ public class IfElseStatement03 {
 			System.out.println(miktar*birimFiyat);
 		}
 		
+		scan.close();
 
 	}
 

@@ -20,5 +20,7 @@ public class OdevSesliHarfSorusu {
 		}else {
 			System.out.println("Yanlis harf girdiniz.");
 		}
+		
+		scan.close();
 	}
 }

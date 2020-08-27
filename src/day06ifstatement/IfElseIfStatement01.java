@@ -25,5 +25,6 @@ public class IfElseIfStatement01 {
 		}else {
 			System.out.println("Emekli");
 		}	
+		scan.close();
 	}
 }

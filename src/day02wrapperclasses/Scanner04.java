@@ -22,6 +22,7 @@ public class Scanner04 {
 		System.out.println(en*boy); //50
 		System.out.println(2*(en+boy));//30
 
+		scan.close();
 	}
 
 }

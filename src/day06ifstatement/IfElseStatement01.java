@@ -27,5 +27,6 @@ public class IfElseStatement01 {
 		}else {
 			System.out.println("Password yanlis tekrar deneyin");
 		}
+		scan.close();
 	}
 }
